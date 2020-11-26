@@ -30,10 +30,7 @@ i:hover{
 }
 
 .card:hover{
- background: black;
- color: white;
- transform: scale(.90);
- transition-duration: 1.0s;
+ animation: bounce 1s;
 }
 
 .button-color{
